@@ -1,2 +1,2 @@
-Yeah! I'm that guy who reads and understands every vibecoded lines😎   
+Web Development & AI Engineering😎   
 📌[Portfolio](https://dpx9.github.io/)
