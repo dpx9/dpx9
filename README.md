@@ -1,2 +1,2 @@
-Web Development & AI Engineering😎   
+Web Development & AI Engineering   
 📌[Portfolio](https://dpx9.github.io/)
