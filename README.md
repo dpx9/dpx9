@@ -11,3 +11,5 @@ Fullstack Development, Agentic AI, GPU Programming
 1. [A]()
 2. [B]()
 3. [C]()
+
+![|300](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
