@@ -1,4 +1,4 @@
-[Portfolio]()↗️  [Leetcode]()↗️
+[Portfolio]()↗️  [Leetcode](https://leetcode.com/u/modfxn/)↗️
 
 Hi 🙋‍♂️, I'm **DHEERAJ PRAKASH**.
 
